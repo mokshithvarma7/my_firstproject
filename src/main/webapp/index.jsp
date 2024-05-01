@@ -58,7 +58,7 @@
 <body>
     
     <div class="container">
-        <h1>Registration Form</h1>
+        <h1>User Registration Form</h1>
         <form action="SubmitFormServlet" method="post" enctype="multipart/form-data">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
